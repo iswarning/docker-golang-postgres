@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/divrhino/divrhino-trivia/models"
+	"github.com/iswarning/docker-golang-postgres/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

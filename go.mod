@@ -1,4 +1,4 @@
-module github.com/divrhino/divrhino-trivia
+module github.com/iswarning/docker-golang-postgres
 
 go 1.19
 

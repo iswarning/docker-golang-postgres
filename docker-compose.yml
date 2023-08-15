@@ -1,6 +1,6 @@
 # docker compose up
 # docker compose run --service-ports web bash
-# go mod init github.com/divrhino/divrhino-trivia
+# go mod init github.com/iswarning/docker-golang-postgres
 # go get github.com/gofiber/fiber/v2
 # go run cmd/main.go -b 0.0.0.0
 # go get gorm.io/gorm

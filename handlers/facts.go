@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github.com/divrhino/divrhino-trivia/database"
-	"github.com/divrhino/divrhino-trivia/models"
 	"github.com/gofiber/fiber/v2"
+	"github.com/iswarning/docker-golang-postgres/database"
+	"github.com/iswarning/docker-golang-postgres/models"
 )
 
 func ListFacts(c *fiber.Ctx) error {
